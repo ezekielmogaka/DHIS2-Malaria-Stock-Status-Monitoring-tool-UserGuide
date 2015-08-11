@@ -1,5 +1,5 @@
-DHIS2 Stock status monitoring project documentation
-==================================================
+DHIS2 Stock status monitoring project documentation - Userguide
+=================================================================
 This documentation is for the malaria stock status monitoring  purposes of analysis and report generation.
 
 ..  The malaria stock status monitoring tool system's "home" is at
@@ -20,11 +20,11 @@ indicates to management, the months stock status and pipeline monitoring of Mala
 There is a `downloadable PDF version`_ of this documentation, a
 `mobile friendly EPUB version`_ and a `downloadable HTML version`_.
 
-.. _`downloadable PDF version`: https://media.readthedocs.org/pdf/stock-status-monitoring-documentation/latest/stock-status-monitoring-documentation.pdf
+.. _`downloadable PDF version`: http://readthedocs.org/projects/dhis2-malaria-stock-status-monitoring-tool-userguide/downloads/pdf/latest/
 
-.. _`mobile friendly EPUB version`: http://readthedocs.org/projects/stock-status-monitoring-documentation/downloads/epub/latest/
+.. _`mobile friendly EPUB version`: http://readthedocs.org/projects/dhis2-malaria-stock-status-monitoring-tool-userguide/downloads/epub/latest/
 
-.. _`downloadable HTML version`: http://readthedocs.org/projects/stock-status-monitoring-documentation/downloads/htmlzip/latest/
+.. _`downloadable HTML version`: http://readthedocs.org/projects/dhis2-malaria-stock-status-monitoring-tool-userguide/downloads/htmlzip/latest/
 
 Table of contents
 ====================

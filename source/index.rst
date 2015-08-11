@@ -1,5 +1,5 @@
-DHIS2 Stock status monitoring project documentation
-==================================================
+DHIS2 Stock status monitoring project documentation - Userguide
+=================================================================
 This documentation is for the malaria stock status monitoring  purposes of analysis and report generation.
 
 ..  The malaria stock status monitoring tool system's "home" is at
